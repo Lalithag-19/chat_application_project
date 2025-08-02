@@ -5,7 +5,7 @@ from datetime import datetime
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Niranjan@123",
+    "password": "*******",
     "database": "chatdb"   # Make sure you created this database first
 }
 
