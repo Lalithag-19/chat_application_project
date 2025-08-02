@@ -53,5 +53,5 @@ This is a **Python socket-based chat room project** that allows multiple users t
        content TEXT
    );
 
-![Chat Room Demo](screenshot.png)
+
 
